@@ -11,6 +11,8 @@ Este projeto foi desenvolvido como parte do aprendizado de padrões de projeto, 
 
 Os Design Patterns são soluções reutilizáveis para problemas comuns no desenvolvimento de software, promovendo boas práticas de programação. Eles ajudam a criar sistemas mais organizados, flexíveis e fáceis de manter, além de facilitar a comunicação entre desenvolvedores. O uso de padrões consagrados melhora a eficiência e a qualidade do código, reduzindo erros e custos no longo prazo. O padrão Builder é particularmente útil quando se lida com objetos complexos, onde o processo de criação pode ser dividido em etapas distintas.
 
+## Fotos do Código
+
 ![image](https://github.com/user-attachments/assets/fd31310e-565a-4f84-bfb0-db8018daa264)
 
 ![image](https://github.com/user-attachments/assets/eee2d3f5-b21b-48ec-a21c-66818afe78c2)
